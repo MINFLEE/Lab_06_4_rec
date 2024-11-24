@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaX\\source\\repos\\Lab_06_4_rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B14FD5-4EFC-4AD2-BE96-673CA7158EA1}|UnitTest_06_4_rec\\UnitTest_06_4_rec.vcxproj|C:\\Users\\MaX\\source\\repos\\Lab_06_4_rec\\UnitTest_06_4_rec\\UnitTest_06_4_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B14FD5-4EFC-4AD2-BE96-673CA7158EA1}|UnitTest_06_4_rec\\UnitTest_06_4_rec.vcxproj|solutionrelative:UnitTest_06_4_rec\\UnitTest_06_4_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320010F-F862-4A53-8C7B-8B20A5B6BD74}|Lab_06_4_rec\\Lab_06_4_rec.vcxproj|C:\\Users\\MaX\\source\\repos\\Lab_06_4_rec\\Lab_06_4_rec\\Lab_06_4_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C320010F-F862-4A53-8C7B-8B20A5B6BD74}|Lab_06_4_rec\\Lab_06_4_rec.vcxproj|solutionrelative:Lab_06_4_rec\\Lab_06_4_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_06_4_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\MaX\\source\\repos\\Lab_06_4_rec\\UnitTest_06_4_rec\\UnitTest_06_4_rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest_06_4_rec\\UnitTest_06_4_rec.cpp",
+              "ToolTip": "C:\\Users\\MaX\\source\\repos\\Lab_06_4_rec\\UnitTest_06_4_rec\\UnitTest_06_4_rec.cpp*",
+              "RelativeToolTip": "UnitTest_06_4_rec\\UnitTest_06_4_rec.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T23:33:08.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_06_4_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\MaX\\source\\repos\\Lab_06_4_rec\\Lab_06_4_rec\\Lab_06_4_rec.cpp",
+              "RelativeDocumentMoniker": "Lab_06_4_rec\\Lab_06_4_rec.cpp",
+              "ToolTip": "C:\\Users\\MaX\\source\\repos\\Lab_06_4_rec\\Lab_06_4_rec\\Lab_06_4_rec.cpp",
+              "RelativeToolTip": "Lab_06_4_rec\\Lab_06_4_rec.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T21:52:16.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
